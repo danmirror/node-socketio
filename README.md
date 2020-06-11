@@ -2,7 +2,7 @@
 > node js using socket communication
 
 ### required
-- [x] nmp
+- [x] npm
 - [x] socket io
 
 ### run
